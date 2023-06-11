@@ -1,0 +1,7 @@
+
+<html>
+<head><title>Rosa</head></title>
+<body bgcolor="#C8EFE8">
+<h1><center><font color="white">computacion basica II</h1></center>
+</body>
+</html>
